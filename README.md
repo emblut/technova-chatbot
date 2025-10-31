@@ -1,1 +1,3 @@
+# TechNova AB - Chatbot: Fullstack
+
 Jag har använt mig av RunnableBranch för att endast hämta dokumenten från supabase när det bedöms som relevant.
